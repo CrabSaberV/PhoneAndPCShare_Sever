@@ -1,0 +1,15 @@
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\bin\Debug\netcoreapp3.1\PCAndPhoneShare_Server.exe
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\bin\Debug\netcoreapp3.1\PCAndPhoneShare_Server.deps.json
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\bin\Debug\netcoreapp3.1\PCAndPhoneShare_Server.runtimeconfig.json
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\bin\Debug\netcoreapp3.1\PCAndPhoneShare_Server.runtimeconfig.dev.json
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\bin\Debug\netcoreapp3.1\PCAndPhoneShare_Server.dll
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\bin\Debug\netcoreapp3.1\PCAndPhoneShare_Server.pdb
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\obj\Debug\netcoreapp3.1\PCAndPhoneShare_Server.csprojAssemblyReference.cache
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\obj\Debug\netcoreapp3.1\PCAndPhoneShare_Server.AssemblyInfoInputs.cache
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\obj\Debug\netcoreapp3.1\PCAndPhoneShare_Server.AssemblyInfo.cs
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\obj\Debug\netcoreapp3.1\PCAndPhoneShare_Server.csproj.CoreCompileInputs.cache
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\obj\Debug\netcoreapp3.1\PCAndPhoneShare_Server.dll
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\obj\Debug\netcoreapp3.1\PCAndPhoneShare_Server.pdb
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\obj\Debug\netcoreapp3.1\PCAndPhoneShare_Server.genruntimeconfig.cache
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\WorkSpace\MyProgram\PhoneAndPCShare\Server\PhoneAndPCShare_Sever\PCAndPhoneShare_Server\obj\Debug\netcoreapp3.1\PCAndPhoneShare_Server.csproj.CopyComplete

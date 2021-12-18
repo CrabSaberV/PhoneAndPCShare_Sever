@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n8CDhSRI3fiOnf1UtzFCJ3COw9xe2YyP/H0oLd7J0UclbpjK9QWbkFjTrXYw7iQXzj52I93KvsV6wy9U0JNYyA==",
+  "success": true,
+  "projectFilePath": "E:\\WorkSpace\\MyProgram\\PhoneAndPCShare\\Server\\PhoneAndPCShare_Sever\\PCAndPhoneShare_Server\\PCAndPhoneShare_Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CrabSaberXV\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
